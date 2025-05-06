@@ -1,2 +1,2 @@
-# E-Voting-App
-An online, secure, and user-friendly electronic voting application built with Python. This project enables election administrators to configure polls, register voters, and tally results in real-time while ensuring data integrity and privacy.
+# evoting_app
+Learn how to build a secure voting platform with Django.
